@@ -1,0 +1,9 @@
+{
+  "name": "WRD Public Dashboard V9",
+  "short_name": "WRD Dashboard",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7fa",
+  "theme_color": "#075985",
+  "description": "Read-only WRD dashboard with corrected Basin Division filtering"
+}
