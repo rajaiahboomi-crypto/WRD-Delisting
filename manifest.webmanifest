@@ -1,0 +1,8 @@
+{
+  "name": "WRD Application Dashboard V5",
+  "short_name": "WRD Dashboard",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7fa",
+  "theme_color": "#075985"
+}
